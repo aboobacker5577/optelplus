@@ -1,0 +1,236 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0px;
+	padding:0px;
+	background:url(../img/bg.jpg);
+}
+
+header	{
+		position:fixed;
+		width:100%;
+		height:auto;
+		z-index:999;
+}
+
+h1	{
+		font-family: 'Archivo Narrow', sans-serif;
+		text-outline: 2px 2px #00de75;
+		color:#0f6f16s;
+		margin-bottom:25px;
+}
+
+h2	{
+		font-family: 'Archivo Narrow', sans-serif;
+		color:#000;
+}
+
+h3	{
+		font-family: 'Archivo Narrow', sans-serif;
+}
+
+
+h4	{
+		font-family: 'Archivo Narrow', sans-serif;
+		line-height:35px;
+}
+
+
+
+.banner-margin	{
+		margin-top:90px;
+}
+
+.banner-img	{
+		background:url(../img/bg.jpg);
+}
+
+.news-scroll	{
+		height:35px;
+		color:#f4b800;
+		margin:8px 0;
+		font-size:20px;
+}
+
+.news-scroll-2	{
+		height:50px;
+		color:#fff;
+		font-size:19px;
+		background:url(../img/news-scroll-bg.jpg) #f4b800 repeat-y;
+		padding:10px 0;
+		font-family: 'Archivo Narrow', sans-serif;
+}
+
+.country-flag	{
+		margin-top:30px;
+}
+
+.country-flag-2	{
+		margin-top:10px;
+}
+
+.get_apps	{
+		margin:15px 0;
+}
+
+.featuers-section	{
+		width:100%;
+		background:url(../img/get-app-bg.png) ;
+		margin-top:0px;
+		padding:30px 0;
+		font-family: 'Archivo Narrow', sans-serif;
+}
+
+.text-1	{
+		font-size:15px;
+		line-height:28px;
+		font-family: 'Nanum Gothic', sans-serif;
+		padding-top:10px;
+		color:#000;
+}
+
+.section-bottom	{
+		color:#fff;
+		background:url(../img/abt-bg.jpg) repeat-y #fabd00;
+		padding:25px 0;
+}
+
+.welcome-text	{
+		color:#fff;
+		padding:35px 0;
+}
+
+.footer	{
+		background:url(../img/ftr-bg.png) #000 no-repeat;
+		padding:20px 0;
+}
+
+.ftr_section	{
+		padding:25px 0;
+}
+
+.ftr-bottom	{
+		background:#FFF;
+		padding:15px 0;
+}
+
+.dialer-section	{
+		background:url(../img/dialer-bg.jpg);
+		min-height:300px;
+		padding:25px 0;
+}
+
+.dialer-margin	{
+		margin:.2em 0;
+}
+
+.dialer-page-section	{
+		background:url(../img/dialer-bg.jpg);
+		min-height:200px;
+		padding:25px 0;
+}
+
+
+.dialer-space	{
+		margin:35px 0;
+}
+
+.dialer-space-2	{
+		padding:45px 0;
+}
+
+.dialer-button	{
+		height:70px;
+		margin-bottom:25px;
+		transition:0.4s;
+		text-decoration:none;
+		border-radius:5px;
+		border:solid 2px #ffefbc;
+		background:#f3b800;
+}
+.dialer-button:hover	{
+		background-color:#e6ae00;
+}
+
+
+
+.dialer-icon	{
+		float:left;
+		padding:10px;
+		border-radius:20px;
+}
+
+.dialer-container	{
+	padding:10px;
+		
+}
+
+.dialer-name	{
+		height:25px;
+		color:#000;
+		font-size:20px;
+		text-decoration:none;
+		font-family: 'Archivo Narrow', sans-serif;
+		padding-left:10px;
+}
+
+
+
+.dialer-opc	{
+		height:8px;
+		color:#000;
+		font-size:14px;
+		font-family: 'Archivo Narrow', sans-serif;
+		text-decoration:none;
+		padding-left:0px;
+		padding-top:0px;
+		border:solid #fff;
+		border-width:1px 0 0 0;
+		margin-left:60px;
+		margin-top:5px;
+
+}
+
+
+.dialer-section-2	{
+		min-height:80px;
+}
+
+
+.news	{
+	font-size:22px;
+	color:#000;
+	padding-top:15px;
+}
+
+.thankyou	{
+		min-height:500px;
+		padding-top:100px;
+		font-size:35px;
+		font-weight:bold;
+		color:#136711;
+}
+
+
+.contact	{
+		background:#F3F3F3;
+		min-height:300px;
+		padding:50px 0;
+}
+
+.contact-form	{
+		background:#1d720d;
+		border:solid 1px #20820d;
+		height:30px;
+		padding:0 10px;
+		color:#fff;
+}
+
+.contact-text	{
+		background:#1d720d;
+		border:solid 1px #20820d;
+		height:100px;
+		padding:10px;
+		color:#fff;
+}
